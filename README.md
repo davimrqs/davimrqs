@@ -45,15 +45,3 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <br>
-<p align="left">
-  💼 Ferramentas: VS Code; git.
-</p>
-
-<p align="left">
-  💌 Se quiser entrar em contato, estou à disposição: ⤵️
-</p>
-
-<p align="left">
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davimrqs/" alt="LinkedIn"/></a>
-</p>
