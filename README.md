@@ -50,7 +50,7 @@
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Se quiser entrar em contato, estou à disposição: ⤵️
 </p>
 
 <p align="left">
